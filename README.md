@@ -1,2 +1,2 @@
 # PeParser
-Windows PE Parser
+Simple Windows PE Parser
